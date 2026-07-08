@@ -1,0 +1,6 @@
+{
+  "name": "Gamified Task & Reward Manager",
+  "description": "A self-improvement RPG where you complete daily positive habits, earn coins, and redeem them for wellness rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
